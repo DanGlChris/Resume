@@ -41,6 +41,11 @@
 *.su
 *.idb
 *.pdb
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.synctex.gz
 
 # Kernel Module Compile Results
 *.mod*
@@ -52,3 +57,5 @@ Mkfile.old
 dkms.conf
 /pages
 index.html
+
+# 
