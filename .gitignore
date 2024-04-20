@@ -46,6 +46,7 @@
 *.fls
 *.log
 *.synctex.gz
+*.pdf
 
 # Kernel Module Compile Results
 *.mod*
